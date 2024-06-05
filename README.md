@@ -1,4 +1,2 @@
 # Crow
-my worm on c++
-# Credits to:
-pankoza
+C++ GDI trojan by red-wipet
